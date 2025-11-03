@@ -24,6 +24,6 @@ For all datasets, **purchase behavior** is treated as the target behavior. Users
 To reproduce the experimental results, simply run:
 
 ```matlab
-run_Tmall.m
+run_Tmall.m```
 
 All required utility functions and datasets are included in this directory.
