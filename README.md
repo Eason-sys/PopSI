@@ -21,9 +21,7 @@ For all datasets, **purchase behavior** is treated as the target behavior. Users
 
 ## Running PopSI
 
-To reproduce the experimental results, simply run:
+All required utility functions and datasets are included in this directory. To reproduce the experimental results, simply run:
 
 ```matlab
-run_Tmall.m```
-
-All required utility functions and datasets are included in this directory.
+run_Tmall.m
